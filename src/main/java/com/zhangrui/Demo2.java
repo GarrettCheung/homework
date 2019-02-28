@@ -11,11 +11,13 @@ public class Demo2 {
                 }
                 if(j==i-1){
                     System.out.println("素数为:"+i);
+                    count++;
                 }
 
             }
-            //System.out.println("素数为:"+count);
+
         }
+        System.out.println("素数一共有:"+count);
 
 
 
