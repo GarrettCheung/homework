@@ -23,7 +23,7 @@ public class Demo6 {
 
 
  /*
-
+        //第二种方法
         Scanner scan = new Scanner(System.in);
         System.out.print("请输入第一个整数:\n");
         int a = scan.nextInt();
